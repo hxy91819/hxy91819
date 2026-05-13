@@ -28,7 +28,7 @@ I care about systems that work — not just in demos, but under real load, with 
 
 I'm an AI enthusiast and a firm believer in **OpenAI Harness Engineering**. I actively integrate AI into my workflows — not as a replacement, but as a partner.
 
-I contribute to OpenClaw because I want AI agents to feel more like **companions than assistants**. That means stable runtimes, secure defaults, and real production experience feeding back into the open-source ecosystem.
+OpenClaw showed me that AI can be more than a tool — it can be a **real companion**. Not just for work, but for thinking, creating, and growing. I contribute because I want to push that further: stable runtimes, secure defaults, and real production experience feeding back into the ecosystem that made it possible.
 
 ## 🛠️ Tech Stack
 
