@@ -16,7 +16,6 @@
 ## 🧭 What I'm Doing
 
 - 🔧 **OpenClaw Maintainer** — PR review, security patches, bug triage for the leading open-source AI agent platform
-- 🏭 **Production ops** — Running OpenClaw on Tencent Cloud VPS, multi-provider LLM setup, automated upstream monitoring
 - 📝 **Technical writing** — Turning real open-source work into articles (in progress)
 
 ## 🏗️ Background
