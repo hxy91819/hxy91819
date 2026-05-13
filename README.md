@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # Hey, I'm Mason 👋
 
@@ -61,4 +61,4 @@ As a maintainer, I focus on **stability, security, and performance**:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hxy91819&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-</div>]]>
+</div>
