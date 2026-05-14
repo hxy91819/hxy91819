@@ -27,3 +27,11 @@ As a maintainer, I focus on **stability, security, and performance**.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hxy91819/hxy91819/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hxy91819/hxy91819/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/hxy91819/hxy91819/output/github-snake.svg" />
+</picture>
